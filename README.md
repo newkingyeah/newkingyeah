@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/newkingyeah)](https://ghfind.com/u/newkingyeah?ref=badge)
 
 <!--
 **newkingyeah/newkingyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
