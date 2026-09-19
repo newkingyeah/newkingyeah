@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/newkingyeah)](https://ghfind.com/u/newkingyeah?ref=badge)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=AI+Engineer;Robotics+Developer;Unity+VFX+Artist)]()
 <!--
 **newkingyeah/newkingyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
