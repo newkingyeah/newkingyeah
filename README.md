@@ -1,4 +1,3 @@
-## Hi there 👋
 [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/newkingyeah)](https://ghfind.com/u/newkingyeah?ref=badge)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi%20I'm%20nkyeah)](https://git.io/typing-svg)
